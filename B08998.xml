@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An emblem of mortality. Containing a dialogue between a prince and pale-fac'd death.  Wherein it appears, that no person, from the highest to the lowest, can be free from his severe stroke, though never to loath so leave the glory of the tempting world ; yet it is evident that we must whenevery death shall call.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1687?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08998</idno>
+            <idno type="STC">Wing E701A</idno>
+            <idno type="STC">ESTC R224438</idno>
+            <idno type="EEBO-CITATION">64551205</idno>
+            <idno type="OCLC">ocm 64551205</idno>
+            <idno type="VID">184543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184543)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An emblem of mortality. Containing a dialogue between a prince and pale-fac'd death.  Wherein it appears, that no person, from the highest to the lowest, can be free from his severe stroke, though never to loath so leave the glory of the tempting world ; yet it is evident that we must whenevery death shall call.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. M. for P. Brooksby at the Golden Ball near the Bear Tavern in Py-Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685-1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Publisher's advertisements at foot of page.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:184543:1" rendition="simple:additions"/>
+            <head>An EMBLEM of MORTALITY. Containing a DIALOGUE between a PRINCE and pale-fac'd DEATH.</head>
+            <head type="sub">WHEREIN IT APPEARS, That no Perſon, from the Higheſt to the Loweſt, can be free from his ſevere Stroke, though never ſo loath to leave the Glory of the Tempting World; yet it is evident that we muſt whenever Death ſhall call.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>8. Oct. 1687</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a skeleton holding an hourglass in one hand and an arrow in the other</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a king (or other royal personage?)</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a man (the king?) on his deathbed</figDesc>
+               </figure>
+            </p>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>BEhold, I am a Prince of High Renown;</l>
+               <l>My Head's adorned with a Royal Crown;</l>
+               <l>My Noble Lords they all bare headed ſtand</l>
+               <l>Yielding <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bedience to my Juſt Command.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>'Tis true, great Prince, you can command; but I</l>
+               <l>Am come to tell <hi>you,</hi> that <hi>you</hi> now muſt die:</l>
+               <l>Therefore, <hi>great Sir,</hi> your power will decay;</l>
+               <l>Another in <hi>your</hi> Kingdom muſt bear ſway.</l>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>Muſt I be ſtript of all my Worldly bliſs?</l>
+               <l>Who dare preſume to bring ſuch News as this</l>
+               <l>Into <hi>my Court,</hi> and fill <hi>my</hi> Royal Ears,</l>
+               <l>My Head, my Heart, my Soul with ſlaviſh fears?</l>
+               <l>E're <hi>you</hi> depart, I ſolemnly declare,</l>
+               <l>I'll know from whence <hi>you</hi> come, and who <hi>you</hi> are.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>Yes, that <hi>you</hi> ſhall, for here I'le make it known,</l>
+               <l>'Twas I that did the Kings of old unthrone;</l>
+               <l>Not only ſo, I conquer <hi>great</hi> and <hi>ſmall;</hi>
+               </l>
+               <l>
+                  <hi>The King of Terror</hi> ſome my Title call:</l>
+               <l>I am <hi>Impartial,</hi> when I ſtrike my blow;</l>
+               <l>To rich and poor I equal favour ſhow:</l>
+               <l>Sure you muſt needs have heard of me before,</l>
+               <l>Who when I ſtrike, no mortal can reſtore.</l>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>And is thy Dart ſo <hi>fatal?</hi> then forbear</l>
+               <l>To ſtrike, becauſe I much <hi>unwilling</hi> are</l>
+               <l>To leave this World, while in my youthful prime;</l>
+               <l>My blooming years <hi>call</hi> for a longer time</l>
+               <l>To Reign, and reap the pleaſures of <hi>Delight;</hi>
+               </l>
+               <l>Behold, I am in <hi>all my Glory</hi> bright:</l>
+               <l>Therefore I cannot reliſh this your News;</l>
+               <l>Methinks a potent Prince you might excuſe.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>No, no, I can't excuſe, though ne'r ſo great,</l>
+               <l>And therefore now in brief I do relate,</l>
+               <l>That I muſt conquer you before I go;</l>
+               <l>Therefore it is in vain to anſwer, <hi>No.</hi>
+               </l>
+               <l>This World, and <hi>all its Glory</hi> you muſt leave,</l>
+               <l>But yet I would not have you ſeem to grieve;</l>
+               <l>For though this preſent Life you do lay down,</l>
+               <l>You may enjoy a never-fading Crown.</l>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>Though this is true, yet loath I am to dye;</l>
+               <l>Obſerve, and I will tell the reaſon why:</l>
+               <l>Some of my Subjects <hi>worthy</hi> things have done,</l>
+               <l>By which <hi>my Princely Favour</hi> they have won,</l>
+               <l>And now they wait to be prefer'd by me;</l>
+               <l>Therefore pale Death, I'm loath to go with thee.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>This is a ſlender ſaying; now, <hi>great Sir,</hi>
+               </l>
+               <l>You muſt with me no longer Time defer:</l>
+               <l>It is in vain to talk what muſt be done</l>
+               <l>As a Reward; behold, <hi>your Glaſs</hi> is run:</l>
+               <l>And this, I do declare, muſt be your doom,</l>
+               <l>To change your Palace for a ſilent Tomb.</l>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>What Soul-amazing Meſſage do you bring!</l>
+               <l>How ſhall I undergo ſo ſharp a thing?</l>
+               <l>Loath am I yet to <hi>yield</hi> to thee; for why?</l>
+               <l>No living man knows what it is to dye.</l>
+               <l>This tempting <hi>World,</hi> where <hi>peace</hi> &amp; <hi>pleaſures</hi> flow</l>
+               <l>Makes me (alas!) <hi>unwilling</hi> to forgo</l>
+               <l>Thoſe ſweet <hi>Delights,</hi> and therefore would I give</l>
+               <l>Coffers of Gold that I might longer live.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>What is thy <hi>Wealth?</hi> what is thy <hi>Golden Ore?</hi>
+               </l>
+               <l>If thou couldſt give ten thouſand <hi>worlds</hi> and more,</l>
+               <l>
+                  <hi>All this</hi> is nothing, for it cannot ſave</l>
+               <l>The higheſt pitch of Honour from the Grave.</l>
+               <l>If mighty men for <hi>Gold</hi> long Lives could buy,</l>
+               <l>They would be <hi>full</hi> of years before they'd die:</l>
+               <l>But this was never yet, nor ne'r will be;</l>
+               <l>Therefore make haſte, and come along with me.</l>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>Although you ſay my Life <hi>you will</hi> not ſpare,</l>
+               <l>I am not free to go, therefore forbear</l>
+               <l>To ſhew your ſharp and ſtrict ſeverity;</l>
+               <l>Who knows but there may yet be <hi>Help</hi> for me?</l>
+               <l>Run, <hi>call</hi> my able Doctors now with ſpeed;</l>
+               <l>For why? I find there never was more need.</l>
+               <l>My <hi>cheerful</hi> Countenance is waxed <hi>pale;</hi>
+               </l>
+               <l>My Joints do <hi>tremble,</hi> and my Spirits <hi>fail.</hi>
+               </l>
+               <l>Come ye Phyſicians now and comfort me,</l>
+               <l>Then you <hi>ſhall</hi> find my <hi>Generoſity;</hi>
+               </l>
+               <l>Not only Gold, but <hi>Honour</hi> and <hi>Renown:</hi>
+               </l>
+               <l>Speak words of Comfort, do not caſt me down.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>It is in vain on Doctors to rely;</l>
+               <l>They cannot ſave whom God hath ſaid <hi>ſhall dye:</hi>
+               </l>
+               <l>In vain Man ſeeks to them for Life; 'tis known,</l>
+               <l>They cannot add one minute to their own.</l>
+               <l>Now you upon your dying Bed condole,</l>
+               <l>Send for the ſweet Phyſicians of the Soul;</l>
+               <l>The Able Doctors of Divinity,</l>
+               <l>Who <hi>will</hi> adminiſter good things to Thee.</l>
+               <l>So <hi>will</hi> your Joys abundantly encreaſe,</l>
+               <l>In laying down this <hi>painful life</hi> in peace.</l>
+               <l>Fear not thy change, for he that hath done <hi>well,</hi>
+               </l>
+               <l>Shall Live &amp; Reign where Saints and Angels <hi>dwell.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <l>Farewel the <hi>World,</hi> and e'ery thing that's vain,</l>
+               <l>With my Redeemer now I hope to Reign.</l>
+               <l>Then with a ſmile he ſaid, Welcome ſweet Death,</l>
+               <l>To thee I freely do reſign my breath.</l>
+            </sp>
+            <lg>
+               <l>
+                  <hi>BEhold this Emblem of Mortality,</hi>
+               </l>
+               <l>
+                  <hi>Which ſhows there can no mortal man be free</hi>
+               </l>
+               <l>
+                  <hi>From Death, who conquers all, both high and low,</hi>
+               </l>
+               <l>
+                  <hi>There's none that can withſtand his fatal blow:</hi>
+               </l>
+               <l>
+                  <hi>Then let us learn to live ſo righteous here,</hi>
+               </l>
+               <l>
+                  <hi>That we the ſtroke of Death may never fear.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be printed,.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>A. M.</hi> for <hi>P. Brooksby</hi> at the <hi>Golden Ball</hi> near the <hi>Bear Tavern</hi> in <hi>Py-corner.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>THere is alſo lately printed Six excellent new Broadſides, <hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi>
+               <list>
+                  <item>1. <hi>Christus Redivivus:</hi> being a Compendious Hiſtory of the Birth, Life, Death, Burial, Reſurrection and Aſcenſion of our bleſſed Lord and Saviour <hi>Jeſus Chriſt;</hi> together with the many Miracles by him performed: illuſtrated with divers Figures ſuitable to each ſubject.</item>
+                  <item>2. The Life and Travels of our bleſſed Lord and Saviour <hi>Jeſus Chriſt.</hi>
+                  </item>
+                  <item>3. Death's tyrannick Conqueſt: or the Funeral of that moſt Illuſtrious and thrice Renowned Prince <hi>Charles</hi> the Second.</item>
+                  <item>4. Judg<g ref="char:EOLhyphen"/>ment and Mercy; or, a dreadful warning-piece to all covetous and worldly-minded perſons, and ſuch as truſt in uncertain Riches; by way of Dialogue between <hi>Dives</hi> and <hi>Lazarus.</hi>
+                  </item>
+                  <item>5. A Deſcription of the late Rebellion in the <hi>West.</hi>
+                  </item>
+                  <item>6. Pea<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls of Virtue; or, the VVomens deſerved praiſe: being a Treatiſe of the many Virtues of the Female Sex, in divers rare Exam<g ref="char:EOLhyphen"/>ples taken from Scripture, and ſundry Hiſtories, to confute the Slanders and Calumnies ſome have caſt upon that happy Creature VVoman.</item>
+               </list>
+            </p>
+            <p>And are all to be ſold at the above-mentioned place: where all Chapme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be furniſhed with all ſorts of ſmall Books and Ballads, <hi>At Reaſonable Rates.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
